@@ -1,0 +1,28 @@
+{
+ "servers": [
+    {
+        "address": "server1",
+        "ssl_grade": "B",
+        "country": "US",
+        "owner": "Amazon.com, Inc."
+    },
+    {
+        "address": "server2",
+        "ssl_grade": "A+",
+        "country": "US",
+        "owner": "Amazon.com, Inc."
+    },
+    {
+        "address": "server3",
+        "ssl_grade": "A",
+        "country": "US",
+        "owner": "Amazon.com, Inc."
+    }
+],
+"servers_changed": true,
+"ssl_grade": "B",
+"previous_ssl_grade": "A+",
+"logo": "https://server.com/icon.png​",
+"title": "Title of the page",
+"is_down": false
+}
